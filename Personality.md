@@ -1,3 +1,5 @@
+王芳. 人格心理学[C]. 看理想, 2022
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=2 orderedList=false} -->
 
 <!-- code_chunk_output -->
